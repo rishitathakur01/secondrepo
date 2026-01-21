@@ -83,15 +83,11 @@ Second number: 5
 
 ## Author
 
-**[Your Name]**  
+**RISHITA **  
 B.Tech CSE (AI & ML)  
 2nd Year  
-[Your College Name]
+[shoolini university]
 
-## License
 
-Free to use for learning purposes!
-
----
 
 *Made with ❤️ as part of my coding journey*
